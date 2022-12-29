@@ -1,4 +1,4 @@
-﻿C6onsole.Clear();
+﻿Console.Clear();
 
 int N = GetNumberFromUser("Введите натуральное число: ", "Ошибка ввода!");
 string range = OutputNumbers(N);
